@@ -83,4 +83,4 @@ This project analyzes food delivery operations using Python (Pandas), SQL, and E
 
 ## Dashboard Preview
 
-![Food Delivery Dashboard](Dashboard/food_delivery_operations_dashboard.png)
+![Food Delivery Operations Dashboard](dashboard/food_delivery_operations_dashboard.png)
