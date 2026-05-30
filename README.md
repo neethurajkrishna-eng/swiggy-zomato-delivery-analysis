@@ -1,8 +1,8 @@
 # Swiggy/Zomato Delivery Analytics
-A complete food delivery operational analytics project using Pandas, SQL, and Excel dashboards.
+A complete food delivery operational analytics project using Python (Pandas), MySQL, and Excel dashboards to analyze rider performance, delivery efficiency, cancellations, distance-based challenges, and peak-hour operations.
 
 Author: Neethu Raj  
-Tools Used: Python, Pandas, SQL, Excel
+Tools Used: Python, Pandas, MySQL, Microsoft Excel
 
 ## Project Overview
 
@@ -83,4 +83,4 @@ This project analyzes food delivery operations using Python (Pandas), SQL, and E
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here later)
+![Food Delivery Dashboard](Dashboard/food_delivery_operations_dashboard.png)
