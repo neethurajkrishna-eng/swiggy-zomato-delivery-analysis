@@ -73,11 +73,18 @@ This project analyzes food delivery operations using Python (Pandas), SQL, and E
 
 ---
 
+## Dataset
+
+The analysis uses a food delivery operations dataset containing order, rider, delivery, distance, and cancellation information.
+
+---
+
 ## Project Files
 
-- `swiggy_zomato_delivery_analysis.ipynb` → Main analysis notebook
-- Excel Dashboard → Operational KPI dashboard
-- Dataset → Food delivery operational dataset
+- swiggy_zomato_delivery_analysis.ipynb → Main Python/Pandas analysis notebook
+- sql/food_delivery_analysis_queries.sql → SQL analysis queries
+- dashboard/food_delivery_operations_dashboard.png → Excel dashboard screenshot
+- data/Swiggy Zomato Order Information.csv → Source dataset
 
 ---
 
